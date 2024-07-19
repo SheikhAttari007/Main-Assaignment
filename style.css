@@ -200,9 +200,314 @@ padding-top: 200px;
     margin-left:250px;
     padding-top: 20px;
 }
-.mckpic{
+.mckpic {
     height: 800px;
-    background-image: url(./image/auto-mechanic-s-tools-grey-background-space-text-auto-mechanic-s-tools-grey-background-flat-lay-space-text-168999424.webp);
-    background-repeat: no-repeat;
+    width: 100%;
+    
+    background-image: url(./image/istockphoto-1309818412-612x612.jpg);
+    background-size:cover ;
+    display: flex;
+    justify-content: space-between;
+}
+.prcntgbar {
+    height: 600px;
+    width: 50%;
+    color: white;
+    margin-top: auto;
+    margin-left: 90px;
+    
+    
+}
+.clom1st {
+    height: 40px;
+    width: 65%;
+    display: flex;    
+    padding-top: 20px;}
+.secndclom {
+    height: 40px;
+    width: 65%;
+    display: flex;
+    padding-top: 20px;
+}
+.thrdclom {
+    height: 40px;
+    width: 65%;
+    display: flex;
+    padding-top: 20px;
+}
+.fourclom {
+    height: 40px;
+    width: 65%;
+    display: flex;
+    padding-top: 20px;
+}
+.fiveclom {
+    height: 40px;
+    width: 65%;
+    display: flex;
+    padding-top: 20px;
+}
+.oneblue {
+    height: 100%;
+    width: 90%;
+    background-color: blue;}
+.onewht {
+    height: 100%;
+    width: 10%;
+    background-color: white;
+    border-radius: 5px;
+    }
+.secondblue {
+    height: 100%;
+    width: 75%;
+    background-color: blue;}
+.secondwht {
+        height: 100%;
+        width: 25%;
+        background-color: white;
+        border-radius: 5px;
 }
 
+.thrdblue {
+    height: 100%;
+    width: 85%;
+    background-color: blue;
+}
+.thrdwht {
+        height: 100%;
+        width: 15%;
+        background-color: white;
+        border-radius: 5px;
+}
+            
+.fourblue {
+    height: 100%;
+    width: 95%;
+    background-color: blue;}
+    .fourwht {
+        height: 100%;
+        width: 5%;
+        background-color: white;
+        border-radius: 5px;
+}
+.fithblue {
+    height: 100%;
+    width: 90%;
+    background-color: blue;}
+    .fithwht {
+        height: 100%;
+        width: 10%;
+        background-color: white;
+        border-radius: 5px;
+}
+        .bartext {
+            font-size: large;
+            background-color: white;
+            color: black; }
+            .mckboy {
+                height: 100%;
+                width: 50%;
+            }
+  .micboy {
+    height: 97%;
+    width: 80%;
+  }
+  .carpic {
+    height: 900px;
+    width: 100%;
+    display: flex;
+    
+  }
+  .smlpics {
+    height: 900px;
+    width: 40%;
+  }
+ 
+  .boat,.motorcycle,.bike {
+    height: 30%;
+    width: 95%;
+    margin-left: 28px;
+  }
+  .bigpic {
+    height: 900px;
+    width: 60%;
+  } 
+  .bmw {
+    height: 870px;
+    width: 90%;
+    margin-top: 24  px;
+  }
+  .tyrepic {
+    height: 600px;
+    width: 100%;
+    display: flex;
+    line-height: 40px;
+  }
+  .content {
+    height: 100%;
+    width: 45%;
+    padding-top: 120px;
+  }
+  .tyre {
+    height: 100%;
+    width: 55%;
+  }
+  .wheel {
+    height: 100%;
+    width: 93%;
+    margin-top: 30px;
+    margin-left: 65px;
+  }
+  .btn {
+    margin-left: 50px;
+  }
+  .cnttyre {
+    font-size: large;
+    margin-left: 20px;
+  }
+  h1 {
+     text-align: center;
+}
+.engnumpic {
+    height: 500px;
+    width: 100%;
+    display: flex;
+}
+.pic {
+    height: 100%;
+    width: 50%;
+}
+.engpic {
+    height: 100%;
+    width: 100%;
+}
+.num {
+    height: 100%;
+    width: 50%;
+    display:flex;
+}
+.clmlft {
+    height: 260px;
+    width: 270px;
+    
+    margin-top: 100px;
+    margin-left: 40px;
+    text-align: center;
+}
+.lftup {
+    height: 80%;
+    width: 100%;
+    border: 2px solid black;}
+    .icon1 {
+        height: 70px;
+        width: 70px;
+    }
+    .ten42 {
+        font-size: xx-large;
+        background-color: white;
+        color: black;
+        line-height: 40px;
+    }
+.lftdwn {
+    height: 20%;
+    width: 100%;
+    border: 2px solid black;}
+
+
+.clmrght {
+    height: 260px;
+    width: 270px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 40px
+}
+.rghtup {
+    height: 80%;
+    width: 100%;
+    border: 2px solid black;}
+    .icon2 {
+        height: 70px;
+        width: 70px;
+    }
+    .five72 {
+        font-size: xx-large;
+        background-color: white;
+        color: black;
+        line-height: 40px;
+    }
+.rghtdwn {
+    height: 20%;
+    width: 100%;
+    border: 2px solid black;}
+.scrnshrt {
+    height: 500px;
+    width: 100%;
+}
+.cap {
+    height:350px;
+    width: 90%;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.carpark {
+    height: 650px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: 50px;
+    padding-bottom: 70px;
+}
+.Capture1,.Capture2 {
+    height: 50%;
+    width: 100%;
+    margin-top: 0px;
+}
+.news {
+    margin-top: 30px;
+}
+.slids {
+    height: 300px;
+    width: 100%;
+}
+.Capture3 {
+    height: 40%;
+    width: 80%;
+    margin-left:100px;
+    margin-top: 90px;
+}
+.locintro {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    padding-top: 50px;
+}
+.Capture4 {
+    height: 95%;
+    width: 50%;
+}
+.map {
+    height: 100%;
+    width: 50%;
+    margin-top: 25px;
+}
+.location {
+    height: 95%;
+    width: 100%;
+    margin-top: 0px;
+}
+.secondicon {
+    height: 80px;
+    width: 100%;
+    background-color: rgba(24, 23, 23, 0.664);
+    display: flex;
+    }
+    .facebooklogo,.tuterlogo,.youtubelogo,.pinterestlogo,.linkinlogo,.skyplogo,.instalogo,.circlelogo {
+        height: 30px;
+        width: 25%;
+        display: flex;
+    }
+
+.facebook,.tuter,.youtube,.pinterest,.linkin,.skyp,.insta,.circle {
+    height: 30px;
+    width: 25px;
+    inset-inline: 10px;
+}
